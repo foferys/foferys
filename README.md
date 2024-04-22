@@ -1,8 +1,6 @@
-<h1 align="center">👋 Ciao!</h1>
+<h1 align="center">👋 Ciao! Sono <strong>Gianpiero</strong> e sono un <strong>WEB DEVELOPER</strong></h1>
 
 <br/>
-
-<p align="center">:computer: Sono <strong>Gianpiero</strong>e sono un <strong>WEB DEVELOPER</strong>.</p>
 
 <div align="center">
 	<h4> ⛩️ Imparare, crescere e condividere le mie passioni per la tecnologia</h4>
