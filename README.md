@@ -4,9 +4,7 @@
 
 <p align="center">:computer: Sono <strong>Gianpiero</strong>e sono un <strong>WEB DEVELOPER</strong>.</p>
 
-<h4> </h4>
-<h4> 📈 Mi piace collaborare con altri programmatori</h4>
-<ul>
+<ul align="center">
 	<li>
 		<h4> ⛩️ Imparare, crescere e condividere le mie passioni per la tecnologia</h4>
 	</li>
