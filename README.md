@@ -4,17 +4,11 @@
 
 <p align="center">:computer: Sono <strong>Gianpiero</strong>e sono un <strong>WEB DEVELOPER</strong>.</p>
 
-<ul align="center">
-	<li align="center">
-		<h4> ⛩️ Imparare, crescere e condividere le mie passioni per la tecnologia</h4>
-	</li>
-	<li align="center">
-		<h4> 🤝 aperto a collaborare con altri programmatori</h4>
-	</li>
-	<li align="center">
-		<h4> 🍜 Amo la cultura Giapponese e i manga</h4>
-	</li>
-</ul>
+<div align="center">
+	<h4> ⛩️ Imparare, crescere e condividere le mie passioni per la tecnologia</h4>
+	<h4> 🤝 aperto a collaborare con altri programmatori</h4>
+	<h4> 🍜 Amo la cultura Giapponese e i manga</h4>
+</div>
 
 <br/>
 
